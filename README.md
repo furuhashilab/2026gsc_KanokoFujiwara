@@ -1,2 +1,2 @@
-# 2026gsc_KanokoFujiwara
+# ライブ遠征者の情報探索行動に関する調査とAI活用型Web GISの提案
 2026年ゼミ論
