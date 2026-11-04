@@ -93,13 +93,9 @@
 | 12月中旬〜下旬 | 比較実験・アンケート、データ整理 |
 | 2027年1月 | 空間分析、考察、執筆・最終調整（研究室提出期限：1月31日） |
 
-## 7. 教授との面談で相談したいこと
-1. 探索行動を中心とした研究の問いは妥当か。
-2. MiniHongo・Explorezなどと比較して、何を本研究の独自性にできるか。
-3. 通常の街歩きと韓国語ミッション付き街歩きの2条件でよいか。日本語ミッション条件も必要か。
 
 ## 8. 参考文献（主要3件・暫定）
-研究室ルールに従い、**正式な参考文献・引用リストは別のGitHub Issueとして作成する予定**。本文中の重要な先行研究は以下の通り。
+研究室ルールに従い、**正式な参考文献・引用リストは別のGitHub Issueとして入れる予定**。本文中の重要な先行研究は以下の通り。
 
 - Tran, N., Kajimura, S., & Shibuya, Y. (2023). Location- and physical-activity-based application for Japanese vocabulary acquisition for non-Japanese speakers. *Multimodal Technologies and Interaction, 7*(3), 29. https://doi.org/10.3390/mti7030029
 - Perry, B. (2021). Gamified mobile collaborative location-based language learning. *Frontiers in Education, 6*, 689599. https://doi.org/10.3389/feduc.2021.689599
