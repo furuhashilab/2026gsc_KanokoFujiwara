@@ -10,6 +10,8 @@
 
 - **[2026年11月10日 中間発表資料（Webブラウザで閲覧可能なMarkdown版）](https://github.com/furuhashilab/2026gsc_KanokoFujiwara/blob/7b62698688a21f41e4f42c318289c1e349601233/presentations/2026-11-10-midterm.md)
 **中間発表時点の進捗：** 言語学習に関する論文3件、制作ツール比較論文1件、位置情報サービス3件を文献・公式資料から調査した。
+- **[Medium投稿用・改訂版研究報告記事](https://github.com/furuhashilab/2026gsc_KanokoFujiwara/blob/main/medium/2026-11-09-research-review.md)** — 先行研究3件＋ゲーム制作ツール比較論文1件と、アプリ・技術の比較を収録。**Mediumへの実際の投稿は未実施。**
+
 ## 1. Abstract（研究要旨）
 
 外国語学習のミッションが、通常は訪れない場所に行ってみるきっかけになるのではないか。本研究では、位置情報と言語学習を結びつける既存研究や位置情報サービスを調べ、外国語で出される街歩きミッションが探索行動に及ぼす影響を検討する。
