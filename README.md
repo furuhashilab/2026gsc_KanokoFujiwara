@@ -159,6 +159,8 @@ A・Bの2条件だけでは**ミッションのゲーム要素による影響と
 | **2026年12月中旬～下旬** | 試作、参加者実験・アンケート、データ整理 |
 | **2027年1月** | GISによる比較分析・考察・ゼミ論執筆（研究室提出期限：1月31日） |
 
+##発表資料
+https://github.com/furuhashilab/2026gsc_KanokoFujiwara/blob/eeed514244611a06fcf6a14265cdf3287234ec58/presentations/2026-11-10-midterm-final.pdf
 
 
 **ライセンス：** 研究室の方針に従い、[License.md](License.md)にCC BY 4.0のテキストを掲載。第三者の図表・スクリーンショット等にはそれぞれの権利関係・出典を適用する。
