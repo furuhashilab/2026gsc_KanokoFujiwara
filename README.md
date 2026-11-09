@@ -9,8 +9,7 @@
 ## 0. 中間発表資料と関連リンク
 
 - **[2026年11月10日 中間発表資料（Webブラウザで閲覧可能なMarkdown版）](https://github.com/furuhashilab/2026gsc_KanokoFujiwara/blob/7b62698688a21f41e4f42c318289c1e349601233/presentations/2026-11-10-midterm.md)
-**中間発表時点の進捗：** 原著論文・レビュー論文3件と、位置情報サービス3件を文献・公式資料から調査した。**実際のアプリ操作、韓国語の入力試験、クエスト作成、GPSログの取得、参加者実験はまだ行っていない**。文献調査による確認と実機検証は区別する。
-
+**中間発表時点の進捗：** 原著論文・レビュー論文3件と、位置情報サービス3件を文献・公式資料から調査した。
 ## 1. Abstract（研究要旨）
 
 外国語学習のミッションが、通常は訪れない場所に行ってみるきっかけになるのではないか。本研究では、位置情報と言語学習を結びつける既存研究や位置情報サービスを調べ、外国語で出される街歩きミッションが探索行動に及ぼす影響を検討する。
@@ -30,7 +29,6 @@
 
 ## 3. 先行研究・既往研究のレビュー（3件）
 
-下記は**論文を読んだ文献レビュー**であり、アプリを自分の端末で操作した結果ではない。
 
 | 研究・種類 | 外国語に特化した仕組み | 研究方法・主な内容 | 自分の研究との関係 |
 |---|---|---|---|
@@ -118,15 +116,6 @@ A・Bの2条件だけでは**ミッションのゲーム要素による影響と
 | **2026年12月中旬～下旬** | 試作、参加者実験・アンケート、データ整理 |
 | **2027年1月** | GISによる比較分析・考察・ゼミ論執筆（研究室提出期限：1月31日） |
 
-## 9. References（参考文献：APA第7版）
-
-研究内容に直接関係する主要な学術論文3件をAPA第7版で示す。既存サービスの公式資料も含む**完全な参考文献リスト**は、[参考文献Issue #1（APA第7版）](https://github.com/furuhashilab/2026gsc_KanokoFujiwara/issues/1)を参照。
-
-Perry, B. (2021). Gamified mobile collaborative location-based language learning. *Frontiers in Education, 6*, Article 689599. https://doi.org/10.3389/feduc.2021.689599
-
-Richardson, D., & Matthews, B. (2025). Location-based games for language learning: A scoping review. *Research Synthesis in Applied Linguistics, 1*(2), 270–301. https://doi.org/10.1080/29984475.2025.2527650
-
-Tran, N., Kajimura, S., & Shibuya, Y. (2023). Location- and physical-activity-based application for Japanese vocabulary acquisition for non-Japanese speakers. *Multimodal Technologies and Interaction, 7*(3), Article 29. https://doi.org/10.3390/mti7030029
 
 
 **ライセンス：** 研究室の方針に従い、[License.md](License.md)にCC BY 4.0のテキストを掲載。第三者の図表・スクリーンショット等にはそれぞれの権利関係・出典を適用する。
