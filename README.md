@@ -123,12 +123,15 @@ A・Bの2条件だけでは**ミッションのゲーム要素による影響と
 | **2026年12月中旬～下旬** | 試作、参加者実験・アンケート、データ整理 |
 | **2027年1月** | GISによる比較分析・考察・ゼミ論執筆（研究室提出期限：1月31日） |
 
-## 9. References（参考文献）
+## 9. References（参考文献：APA第7版）
 
-正式な書誌情報、各研究の要約、公式資料、旧テーマの文献履歴は**[参考文献Issue #1](https://github.com/furuhashilab/2026gsc_KanokoFujiwara/issues/1)**にまとめた。
+研究内容に直接関係する主要な学術論文3件をAPA第7版で示す。既存サービスの公式資料も含む**完全な参考文献リスト**は、[参考文献Issue #1（APA第7版）](https://github.com/furuhashilab/2026gsc_KanokoFujiwara/issues/1)を参照。
 
-1. Tran, N., Kajimura, S., & Shibuya, Y. (2023). *Location- and physical-activity-based application for Japanese vocabulary acquisition for non-Japanese speakers*. https://doi.org/10.3390/mti7030029
-2. Perry, B. (2021). *Gamified mobile collaborative location-based language learning*. https://doi.org/10.3389/feduc.2021.689599
-3. Richardson, D., & Matthews, B. (2025). *Location-based games for language learning: A scoping review*. https://doi.org/10.1080/29984475.2025.2527650
+Perry, B. (2021). Gamified mobile collaborative location-based language learning. *Frontiers in Education, 6*, Article 689599. https://doi.org/10.3389/feduc.2021.689599
+
+Richardson, D., & Matthews, B. (2025). Location-based games for language learning: A scoping review. *Research Synthesis in Applied Linguistics, 1*(2), 270–301. https://doi.org/10.1080/29984475.2025.2527650
+
+Tran, N., Kajimura, S., & Shibuya, Y. (2023). Location- and physical-activity-based application for Japanese vocabulary acquisition for non-Japanese speakers. *Multimodal Technologies and Interaction, 7*(3), Article 29. https://doi.org/10.3390/mti7030029
+
 
 **ライセンス：** 研究室の方針に従い、[License.md](License.md)にCC BY 4.0のテキストを掲載。第三者の図表・スクリーンショット等にはそれぞれの権利関係・出典を適用する。
