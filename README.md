@@ -8,12 +8,7 @@
 
 ## 0. 中間発表資料と関連リンク
 
-- **[2026年11月10日 中間発表資料（Webブラウザで閲覧可能なMarkdown版）](https://github.com/furuhashilab/2026gsc_KanokoFujiwara/blob/7b62698688a21f41e4f42c318289c1e349601233/presentations/2026-11-10-midterm.md)** — 固定コミットのPermalink。5分発表向けの構成、先行研究3件、既存サービスの比較、新規性、今後の計画を掲載。
-- **[参考文献・先行研究レビュー（Issue #1）](https://github.com/furuhashilab/2026gsc_KanokoFujiwara/issues/1)**
-- **[発表の質疑応答（Issue #2）](https://github.com/furuhashilab/2026gsc_KanokoFujiwara/issues/2)**
-- PowerPoint版のオンライン公開リンク：**未掲載**（オンライン公開後に追加予定）。
-- Medium投稿・グラレコ：**未作成**。Slackへの質疑応答IssueのURL投稿：**未実施**。
-
+- **[2026年11月10日 中間発表資料（Webブラウザで閲覧可能なMarkdown版）](https://github.com/furuhashilab/2026gsc_KanokoFujiwara/blob/7b62698688a21f41e4f42c318289c1e349601233/presentations/2026-11-10-midterm.md)
 **中間発表時点の進捗：** 原著論文・レビュー論文3件と、位置情報サービス3件を文献・公式資料から調査した。**実際のアプリ操作、韓国語の入力試験、クエスト作成、GPSログの取得、参加者実験はまだ行っていない**。文献調査による確認と実機検証は区別する。
 
 ## 1. Abstract（研究要旨）
