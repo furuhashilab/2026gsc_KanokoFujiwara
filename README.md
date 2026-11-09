@@ -8,11 +8,12 @@
 
 ## 0. 中間発表資料と関連リンク
 
-- **[2026年11月10日 中間発表PowerPoint（編集済み・7枚版／OneDrive共有リンク）](https://1drv.ms/p/c/6610670e81d97c30/IQBZl3neVKFASbLxAwRGZAK2AWxbgaRra9s_2DLaYybKFvw?e=X0SgsL)** — 明日のZoom発表用。GoogleアカウントやGitHubのログインなしで閲覧できるかは共有設定の確認が必要。
-- **[PowerPoint共有先を記録したGitHub Permalink](https://github.com/furuhashilab/2026gsc_KanokoFujiwara/blob/725282b6b4d7b3f8d6318b0d5d0d94f238b797b7/presentations/2026-11-10-powerpoint-link.md)** — 記載URLは固定。OneDrive上のファイルの版や共有設定までは固定されません。
-- **[2026年11月10日 中間発表資料（Webブラウザで閲覧可能なMarkdown版）](https://github.com/furuhashilab/2026gsc_KanokoFujiwara/blob/7b62698688a21f41e4f42c318289c1e349601233/presentations/2026-11-10-midterm.md)
+- **[2026年11月10日 中間発表PDF（7枚・コミット固定Permalink）](https://github.com/furuhashilab/2026gsc_KanokoFujiwara/blob/eeed514244611a06fcf6a14265cdf3287234ec58/presentations/2026-11-10-midterm-final.pdf)** — 最終版のPDF本体をGitHubに保存。資料の内容を固定して参照できるリンク。
+- **[PowerPoint（OneDrive共有リンク）](https://1drv.ms/p/c/6610670e81d97c30/IQBZl3neVKFASbLxAwRGZAK2AWxbgaRra9s_2DLaYybKFvw?e=X0SgsL)** — 閲覧・編集用。共有権限とリンクの有効性はOneDriveの設定による。
+- **[2026年11月10日 中間発表資料（Markdown版）](https://github.com/furuhashilab/2026gsc_KanokoFujiwara/blob/7b62698688a21f41e4f42c318289c1e349601233/presentations/2026-11-10-midterm.md)**
+- **[Medium投稿用・改訂版研究報告記事](https://github.com/furuhashilab/2026gsc_KanokoFujiwara/blob/main/medium/2026-11-09-research-review.md)** — 先行研究3件＋ゲーム制作ツール比較論文1件、アプリ・技術の比較を収録。Mediumへの実際の投稿は未実施。
+
 **中間発表時点の進捗：** 言語学習に関する論文3件、制作ツール比較論文1件、位置情報サービス3件を文献・公式資料から調査した。
-- **[Medium投稿用・改訂版研究報告記事](https://github.com/furuhashilab/2026gsc_KanokoFujiwara/blob/main/medium/2026-11-09-research-review.md)** — 先行研究3件＋ゲーム制作ツール比較論文1件と、アプリ・技術の比較を収録。**Mediumへの実際の投稿は未実施。**
 
 ## 1. Abstract（研究要旨）
 
